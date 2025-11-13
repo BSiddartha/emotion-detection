@@ -65,10 +65,15 @@ Loss: **Categorical Crossentropy**
 
 emotion_detection/
 │── emotion310_env/ # Virtual environment
+
 │── fer2013/ # Dataset
+
 │── train_model.py # Training code
+
 │── detect_emotion.py # Real-time detection code
+
 │── emotion_model.h5 # Saved trained model
+
 │── README.md # Project documentation
 
 ---
