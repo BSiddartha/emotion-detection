@@ -64,6 +64,7 @@ Loss: **Categorical Crossentropy**
 ## 📁 Project Structure
 
 emotion_detection/
+
 │── emotion310_env/ # Virtual environment
 
 │── fer2013/ # Dataset
